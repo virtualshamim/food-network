@@ -121,6 +121,27 @@ margin-bottom: 100px;
     border-radius: 50px;
     color: white;
 }
+.visit-us{
+    padding: 100px 100px;
+    background-color: rgb(15, 151, 106);
+
+}
+.flex-container-visit{
+    display:flex;
+}
+.one-fourth-width{
+    width: 25%;
+}
+.visit-us h2{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 70px;
+}
+.visit-us h4{
+    color: white;
+    font-size: 30px;
+    margin-top: 10px;
+}
 footer{
     background-color: #0B0D17;
     padding:100px 100px;
