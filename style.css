@@ -1,6 +1,7 @@
 body{
     font-family: 'Montserrat', sans-serif;
     font-size: 20px;
+    margin:0;
 }
 .flex-container{
     display: flex;
@@ -81,4 +82,52 @@ h1{
 }
 .my-recipies-top-part{
 margin-bottom: 100px;
+}
+.one-third-width-new{
+    width: 30%;
+    padding: 5% 5% 5% 10%;
+  
+}
+#social{
+    padding: 100px 100px;
+    margin-right: 3%;
+}
+.social-followers{
+    display: flex;
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+    border-radius: 30px;
+}
+.one-third-width-new h3{
+    font-size: 48px;
+    font-weight: 700;
+    margin: 20px 0px 0px;
+}
+#special-recipy{
+    background-image: url(images/special-recipy.jpg);
+    background-size:cover;
+    background-position: center;
+    padding: 100px 100px;
+    display: flex;
+}
+.one-third-width-special{
+    width: 30%;
+    margin-right: 3%;
+  
+}
+.special-menu{
+    background-color: tomato;
+    padding: 50px;
+    border-radius: 50px;
+    color: white;
+}
+footer{
+    background-color: #0B0D17;
+    padding:100px 100px;
+}
+footer h2{
+    color:#5B5B5B;
+}
+footer p{
+    color: white;
 }
